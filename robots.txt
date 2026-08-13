@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Al publicar, añade aquí: Sitemap: https://TU-DOMINIO.es/sitemap.xml
